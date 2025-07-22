@@ -1,0 +1,26 @@
+{
+  "theme": "futuristic",
+  "language": "zh_CN",
+  "window": {
+    "width": 1200,
+    "height": 800,
+    "remember_size": true,
+    "remember_position": true
+  },
+  "performance": {
+    "enable_animations": true,
+    "animation_speed": "normal",
+    "max_threads": 4,
+    "cache_enabled": true
+  },
+  "accessibility": {
+    "high_contrast": false,
+    "large_fonts": false,
+    "keyboard_navigation": true
+  },
+  "debugging": {
+    "log_level": "INFO",
+    "show_fps": false,
+    "show_memory_usage": false
+  }
+}
